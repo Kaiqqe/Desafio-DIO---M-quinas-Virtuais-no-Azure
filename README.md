@@ -1,5 +1,6 @@
 # Desafio-DIO---M-quinas-Virtuais-no-Azure
 AQUI ESTA TUDO OQUE EU APRENDI NESSE DESAFIO DA DIO
+
 Passo a Passo da Criação da VM
 
 Nome da VM
